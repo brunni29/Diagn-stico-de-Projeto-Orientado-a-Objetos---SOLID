@@ -1,0 +1,11 @@
+{
+  "name": "techstore-refatorado-solid",
+  "version": "2.0.0",
+  "description": "TechStore refatorado com SOLID, composição e Princípio de Demeter",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
